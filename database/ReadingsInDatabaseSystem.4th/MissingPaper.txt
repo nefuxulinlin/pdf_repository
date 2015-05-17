@@ -1,0 +1,6 @@
+Missing Paper:
+
+Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates
+Grammar-like Functional Rules for Representing Query Optimization Alternatives
+Deriving Production Rules for Constraint Maintainance
+Combining Systems and Databases: A Search Engine Retrospective
